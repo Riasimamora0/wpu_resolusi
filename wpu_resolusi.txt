@@ -4,4 +4,4 @@ wpu_resolusi
 - Belajar JS dan Python
 - Berteman dengan programmer
 - Membuat workshop
-- Kolaborasi dengan lebih banyak expert
+- Membuat vlog
