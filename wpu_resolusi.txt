@@ -3,3 +3,5 @@ wpu_resolusi
 - Membuat WEB sendiri
 - Belajar JS dan Python
 - Berteman dengan programmer
+- Membuat workshop
+- Kolaborasi dengan lebih banyak expert
